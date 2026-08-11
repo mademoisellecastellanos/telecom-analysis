@@ -7,6 +7,11 @@ Se analizo y evaluo el comportamiento de los clientes de una empresa de telecomu
 📂 Contenido del repositorio
 notebooks/telecom-analysis.ipynb -> Notebook principal con limpieza, eda, distribuciones, outliers.
 
+📚 Datasets utilizados
+/datasets/plans.csv
+/datasets/users_latam.csv
+/datasets/usage.csv
+
 🧠 Objetivo del análisis
 Identificar problemas de calidad de datos
 Analizar comportamientos, distribuciones y outliers
