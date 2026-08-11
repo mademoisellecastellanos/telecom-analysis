@@ -17,3 +17,10 @@ Identificar problemas de calidad de datos
 Analizar comportamientos, distribuciones y outliers
 Identificar patrones de consumo
 Generar insights para diseñar estrategias de retención. 
+
+▶ Como abrir el notebook en Google Colab
+
+[[[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([URL_DEL_NOTEBOOK_EN_GITHUB](https://github.com/mademoisellecastellanos/telecom-analysis))](https://colab.research.google.com/drive/1Su_xdEOfhefsMogUEGVgU9EuB-LIX2hC)](https://colab.research.google.com/drive/1Su_xdEOfhefsMogUEGVgU9EuB-LIX2hC)
+
+1. Abre el archivo `.ipynb` en GitHub
+2. Haz clic en **Open in Colab*
